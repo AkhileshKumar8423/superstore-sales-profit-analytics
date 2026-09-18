@@ -66,6 +66,10 @@ Product Analysis
 State-wise Sales Map
 Interactive Slicers
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](./dashboard-preview.jpg)
+
 📂 Project File
 
 The Power BI dashboard file is available in this repository:
@@ -78,6 +82,4 @@ Akhilesh Kumar
 
 Data Analyst | Power BI | DAX | Data Visualization
 
-## 📸 Dashboard Preview
 
-![Dashboard Preview](./dashboard-preview.jpg)
