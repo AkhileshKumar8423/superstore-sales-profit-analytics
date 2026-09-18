@@ -80,4 +80,4 @@ Data Analyst | Power BI | DAX | Data Visualization
 
 ## 📸 Dashboard Preview
 
-![Superstore Sales & Profit Dashboard](./Superstore%20Sales%20%26%20Profit%20Analytics.JPG)
+![Superstore Sales & Profit Dashboard](./Superstore Sales & Profit Analytics.JPG)
