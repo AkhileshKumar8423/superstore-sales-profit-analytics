@@ -53,6 +53,7 @@ Total Orders = DISTINCTCOUNT(Superstore[Order ID])
 
 Total Customers = DISTINCTCOUNT(Superstore[Customer ID])
 
+```
 Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0)
 
 📈 Dashboard Features
