@@ -77,3 +77,7 @@ Superstore Sales & Profit Analytics.pbix
 Akhilesh Kumar
 
 Data Analyst | Power BI | DAX | Data Visualization
+
+## 📸 Dashboard Preview
+
+![Superstore Sales & Profit Dashboard](./dashboard-Superstore Sales & Profit Analytics.jpg)
