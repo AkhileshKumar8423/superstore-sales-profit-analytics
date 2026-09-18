@@ -68,8 +68,7 @@ Interactive Slicers
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](./dashboard-preview.jpg)
-
+![Dashboard Preview](https://raw.githubusercontent.com/AkhileshKumar8423/superstore-sales-profit-analytics/main/dashboard-preview.jpg)
 📂 Project File
 
 The Power BI dashboard file is available in this repository:
